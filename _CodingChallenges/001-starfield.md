@@ -89,5 +89,7 @@ contributions:
       url: "https://github.com/Ashikpaul"
     url: "https://ashik-starfield.glitch.me/"
     source: "https://github.com/Ashikpaul/Starfield-effect"
+    name: "Harsh Singh"
+    source: "https://harsh-git12345.github.io/starfield/"
 ---
 This is the first in a new series of videos.  In this video I attempt to program a "star field" or "warp speed" visualization in Processing.  
